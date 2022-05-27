@@ -1,0 +1,9 @@
+{
+    "type": "book",
+    "amount": "12",
+    "title": "A New Adventure 2",
+    "price": "55000",
+    "category": "Sinar Book",
+    "sub-category": "Motivation",
+    "size": "B5"
+}
